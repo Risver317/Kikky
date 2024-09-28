@@ -12,6 +12,5 @@ public class HelloController {
         String hello = "Nikita moy pasinok";
         System.out.println("SOSAT9");
         return "hello_world";
-
     }
 }
